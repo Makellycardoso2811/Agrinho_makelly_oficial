@@ -12,3 +12,36 @@ O objetivo é demonstrar como a tecnologia pode unir/impulsionar o campo e cidad
 # Recursos 
  Monitoramento em tempo real de dados do solo com geração de relatórios.
  Página responsiva
+ # TENDÊNCIAS FUTURAS (2025-2030)
+Agricultura Regenerativa com IA
+
+Sistemas que recuperam solo degradado
+
+Sequestro de carbono monitorado
+
+Carne Vegetal e Cultivada
+
+Proteínas alternativas em escala
+
+Redução de 90% de impacto ambiental
+
+Produção local de insumos biológicos
+
+Redução de logística e custos
+
+Gêmeos Digitais da Fazenda
+
+Simulação completa do ecossistema
+
+Robôs Colaborativos
+
+Colheita seletiva por IA
+
+Trabalho conjunto humano-robô
+# CONCLUSÃO TÉCNICA
+Código segue boas práticas de desenvolvimento front-end para projetos educacionais, com arquitetura limpa e separada, responsividade funcional e interatividade básica. Apresenta oportunidades de melhoria em acessibilidade, performance de imagens e UX do JavaScript (alert → modal). A complexidade é baixa para moderada, adequada para nível iniciante/intermediário.
+# REFERENCIAS
+Goole
+Visual Studio code
+Repositório no GitHub - AgroTech Conecta
+
