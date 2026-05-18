@@ -1,4 +1,4 @@
-# Agrinho Makelly_Cardoso 2026
+# tecnologia no campo agrotech
 Tecnologia no Campo Agrotech para o concurso agrinho 2026.
 # Objetivo 
 AgroTechs (startups do agronegócio), é otimizar processos agrícolas e pecuários para aumentar a produtividade e reduzir desperdícios e custos.
