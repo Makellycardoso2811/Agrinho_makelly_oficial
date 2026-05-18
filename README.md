@@ -29,7 +29,7 @@ Produção local de insumos biológicos
 
 Redução de logística e custos
 
-Gêmeos Digitais da Fazenda
+Gêmeos Digitais da FazendaAgrinho Makelly_Cardoso 2026
 
 Simulação completa do ecossistema
 
@@ -44,4 +44,7 @@ Código segue boas práticas de desenvolvimento front-end para projetos educacio
 Goole
 Visual Studio code
 Repositório no GitHub - AgroTech Conecta
+
+# Licença
+Este projeto está licenciado sob a MIT License, permitindo uso, modificação e distribuição livre, com os devidos créditos.
 
